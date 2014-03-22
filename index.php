@@ -47,7 +47,7 @@ require 'functions/function.php';
 	  		<!-- SLIDER PLACE HERE -->
 			<div class="iphone-slider" style="text-decoration:none;">
 			<input id="range" type="range" min="1" max="13" value="1">
-			
+			test
 			</div>
 			
 	  	</div>
